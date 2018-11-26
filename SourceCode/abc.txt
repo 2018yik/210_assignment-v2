@@ -1,0 +1,4 @@
+Read a paragraph containing words from an input file. 
+Then create a doubly-linked list containing the distinct words read, where 
+the words of the same length are placed in the same list, 
+in alphabetical order.
